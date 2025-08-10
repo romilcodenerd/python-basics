@@ -1,0 +1,4 @@
+# Encapsulation:
+
+# hiding the data.
+# 
